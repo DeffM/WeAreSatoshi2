@@ -30,7 +30,7 @@ PoS Interest Schedule:<br />
 1. 5% interest each month for the first 3 months,<br />
 2. 1% per month for the rest of the year,<br />
 3. 3% annually thereafter<br />
-4. New upgrade at block 805k increased interest to 15% removing PoW
+4. New upgrade at block 800k increased interest to 15% removing PoW
 PoS Stake Age: 5 days minimum, 30 days maximum
 
 License
